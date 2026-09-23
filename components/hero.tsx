@@ -27,6 +27,10 @@ export function Hero() {
           Sanitation Workers&apos; Solidarity Fund
         </h1>
 
+        <p className="mt-4 text-pretty text-lg font-medium text-amber-800 sm:text-xl">
+          For our People &mdash; to remind them that they matter.
+        </p>
+
         <p className="mt-5 font-devanagari text-2xl font-semibold text-amber-800 sm:text-3xl">
           साथी हाथ बटाना रे!
         </p>
